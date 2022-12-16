@@ -1,0 +1,5 @@
+points.input
+rise Rock
+rise Rauhaniemi
+quit
+

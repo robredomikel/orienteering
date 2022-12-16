@@ -1,0 +1,14 @@
+15;10
+Home;15;1;100;H
+Wild;14;2;50;W
+Tree;1;1;200;T
+Landing;4;7;700;L
+Stump;7;8;700;S
+Rock;2;3;500;R
+Boulder;5;5;650;B
+Pond;4;1;340;P
+Distant hut;13;9;800;D
+ROUTES
+Shorter;Tree;Rock;Boulder
+Longer;Rock;Distant hut;Pond;Tree
+Longest;Rock;Landing;Stump;Distant hut;Pond;Tree
