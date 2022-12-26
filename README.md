@@ -24,10 +24,8 @@ In both explained options, input txt files are available in the project folder, 
 ### In Qt
 As I used Qt Creator during this course I will continue with this IDE, but any IDE that could run C++ code should be able to run this project (e.g. VS Code...).
 Open the _.pro_ file in Qt, build it and you will only need to execute it. Then the terminal will show ```CMD>``` in which you would run the functions that _orienteeringmap_ class contains.
-![map](https://github.com/robredomikel/orienteering/map.PNG)
-![route function](https://github.com/robredomikel/orienteering/route.PNG)
-
 ![maps](https://github.com/robredomikel/orienteering/blob/main/screenshots/map.PNG)
+![route function](https://github.com/robredomikel/orienteering/blob/main/screenshots/route.PNG)
 
 ### In terminal
 In the case of this project, running the project from the terminal would end up being the same, but if it's the case that you want fast results, then you can just simply:
@@ -49,7 +47,7 @@ std::map< std::string, std::vector<std::shared_ptr<Point> >> routes_;
 Point class will define the attributes and methods implemented for Point objects, such as, their coordinates, height or name. Mostly, all methods implemented in this class are __getter__ functions, so that point class works to define and store __all the information__ of each point.
 ## Further operations
 Once all the points and routes are built in the map, the program also computes the **length of the specified route** and **the highest distance rise from a given point**.
-![orienteering](https://github.com/robredomikel/orienteering/rise.PNG)
+![orienteering](https://github.com/robredomikel/orienteering/blob/main/screenshots/rise.PNG)
 
 ## Further comments
 This project should be seen from a **Modularity** backed perspective. Indeed, all the implemented code has been based on this part of the project.
