@@ -1,19 +1,20 @@
+
 # Orienteering
 This project is based on the final structures project required in the course Programming 2: Structures (C++) at Tampere University. Shortly, my work covered the content appearing in modules **orienteeringmap.hh** and **orienteeringmap.c**, and **point.hh** and **point.c** in which I implemented the needed classes and objects.
   
 - **Note:** This project is **focused** on the implementation of **classes and objects**, **smart pointers** and **STL containers**.
 
 ## Table of contents
-- [Description](https://github.com/robredomikel/finnish-railway-system#description)
-- [How to run](https://github.com/robredomikel/finnish-railway-system#how-to-run)
-	- [In Qt](https://github.com/robredomikel/finnish-railway-system#in-qt)
-	- [In terminal](https://github.com/robredomikel/finnish-railway-system#in-terminal)
-- [Modules](https://github.com/robredomikel/finnish-railway-system#main-features)
-	- [Orienteering map](https://github.com/robredomikel/finnish-railway-system#orienteering-map)
-	- [Point](https://github.com/robredomikel/finnish-railway-system#point)
-- [Further operations](https://github.com/robredomikel/finnish-railway-system#further-operations) 
-- [Further comments](https://github.com/robredomikel/finnish-railway-system#further-comments)
-- [References](https://github.com/robredomikel/finnish-railway-system#references)
+- [Description](https://github.com/robredomikel/orienteering#description)
+- [How to run](https://github.com/robredomikel/orienteering#how-to-run)
+	- [In Qt](https://github.com/robredomikel/orienteering#in-qt)
+	- [In terminal](https://github.com/robredomikel/orienteering#in-terminal)
+- [Modules](https://github.com/robredomikel/orienteering#main-features)
+	- [Orienteering map](https://github.com/robredomikel/orienteering#orienteering-map)
+	- [Point](https://github.com/robredomikel/orienteering#point)
+- [Further operations](https://github.com/robredomikel/orienteering#further-operations) 
+- [Further comments](https://github.com/robredomikel/orienteering#further-comments)
+- [References](https://github.com/robredomikel/orienteering#references)
 
 ## Description
 In this project I implemented the necessary functions for the given module _orienteeringmap_ and created the module _point_ for the class _point_ and design its attributes and methods. The **goal of the project** is to, given the provided _cli_ and _parser_ modules, make a program that prints out a map with orienteering stop-points based on Cartesian coordinates, and that it's printed in the same command terminal.
