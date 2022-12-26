@@ -24,7 +24,9 @@ In both explained options, input txt files are available in the project folder, 
 ### In Qt
 As I used Qt Creator during this course I will continue with this IDE, but any IDE that could run C++ code should be able to run this project (e.g. VS Code...).
 Open the _.pro_ file in Qt, build it and you will only need to execute it. Then the terminal will show ```CMD>``` in which you would run the functions that _orienteeringmap_ class contains.
+
 ![maps](https://github.com/robredomikel/orienteering/blob/main/screenshots/map.PNG)
+
 ![route function](https://github.com/robredomikel/orienteering/blob/main/screenshots/route.PNG)
 
 ### In terminal
