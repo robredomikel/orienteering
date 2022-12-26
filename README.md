@@ -27,6 +27,8 @@ Open the _.pro_ file in Qt, build it and you will only need to execute it. Then 
 ![map](https://github.com/robredomikel/orienteering/map.PNG)
 ![route function](https://github.com/robredomikel/orienteering/route.PNG)
 
+![maps](https://github.com/robredomikel/orienteering/blob/main/screenshots/map.PNG)
+
 ### In terminal
 In the case of this project, running the project from the terminal would end up being the same, but if it's the case that you want fast results, then you can just simply:
 1. Run ```qmake``` in the terminal when you are inside the project directory, so that you create a ```Makefile```.
